@@ -15,7 +15,7 @@ The **Resilience Project** is a decentralized collaborative platform designed to
 
 Below is the conceptual class diagram representing the system's architecture. 
 
-![UML Class Diagram](docs/conceptual_schema.png)
+![UML Class Diagram](docs/database.png)
 
 ## 💾 Logical Data Model (LDM)
 
